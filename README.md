@@ -1,16 +1,23 @@
-### Hi there 👋
+### Connect with me:
 
-<!--
-**BhanukaUOM/BhanukaUOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="BhanukaUOM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="BhanukaUOM | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BhanukaUOM | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
+[<img align="left" alt="BhanukaUOM | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][StackOverFlow]
+[<img align="left" alt="BhanukaUOM | gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gitlab.svg" />][gitlab]
 
-Here are some ideas to get you started:
+</br>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Bhanuka's github stats](https://github-readme-stats.vercel.app/api?username=BhanukaUOM&include_all_commits=true&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhanukaUOM&layout=compact)](https://github.com/BhanukaUOM)
+</br>
+
+
+
+[twitter]: https://twitter.com/bhanukauom
+[linkedin]: https://linkedin.com/in/BhanukaUOM
+[StackOverFlow]: https://stackoverflow.com/users/8409653/bhanuka-rathnayaka
+[gitlab]: https://gitlab.com/BhanukaUOM
+[Facebook]: https://www.facebook.com/BhanukaUOM
