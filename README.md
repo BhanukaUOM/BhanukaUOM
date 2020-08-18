@@ -9,7 +9,7 @@
 </br>
 </br>
 
-[![Bhanuka's github stats](https://github-readme-stats.vercel.app/api?username=BhanukaUOM&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/BhanukaUOM)
+[![Bhanuka's github stats](https://github-readme-stats.vercel.app/api?username=BhanukaUOM&include_all_commits=true&show_icons=true&theme=dark&count_private=true)](https://github.com/BhanukaUOM)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhanukaUOM&layout=compact&theme=dark)](https://github.com/BhanukaUOM)
 </br>
